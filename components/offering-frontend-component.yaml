@@ -4,7 +4,7 @@ metadata:
   name: offering-frontend-component
   description: Offering Frontend
   annotations:
-    backstage.io/techdocs-ref: 'url:https://github.com/kambisports/backstage-poc-data/blob/main/docs'
+    backstage.io/techdocs-ref: 'url:https://github.com/kambisports/backstage-poc-data/tree/main/docs'
   tags:
     - java
 spec:
