@@ -6,3 +6,5 @@ metadata:
 spec:
   targets:
     - ./apis/offering-api.yaml
+    - ./apis/internal-offering-api.yaml
+    - ./apis/offering-replication-api.yaml

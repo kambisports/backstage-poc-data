@@ -7,3 +7,4 @@ spec:
   targets:
     - ./components/offering-frontend-component.yaml
     - ./components/offering-varnish-component.yaml
+    - ./components/offering-gate-component.yaml
