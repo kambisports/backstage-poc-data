@@ -1,0 +1,26 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: kambi-ab
+  description: The Kambi AB organization
+  links:
+    - url: http://www.kambi.com/
+      title: Website
+    - url: https://confluence.services.kambi.com
+      title: Intranet
+spec:
+  type: organization
+  profile:
+    displayName: Kambi AB
+    email: info@example.com
+    picture: https://avatars.dicebear.com/api/identicon/info@example.com.svg?background=%23fff&margin=25
+  children: [infrastructure]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: content-delivery-groups
+  description: A collection of all Content Delivery Groups
+spec:
+  targets:
+    - ./team-rock-group.yaml
