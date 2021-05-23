@@ -1,0 +1,23 @@
+---
+betting-client
+
+---
+event-view-feature:
+  subcomponentOf: betting-client
+
+
+---
+betty:
+  kind: library
+
+---
+design.kambi.com:
+  kind: website
+
+---
+spark.kambi.com:
+  kind: website
+
+---
+spark:
+  kind: library
