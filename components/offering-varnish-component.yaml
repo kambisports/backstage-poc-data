@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: offering-frontend-cache
+  name: offering-frontend-cache-component
   description: Varnish Cache
   tags:
     - varnish

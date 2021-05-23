@@ -3,11 +3,5 @@ kind: Domain
 metadata:
   name: content-delivery
   description: Everything related to content delivery
-  links:
-    - url: http://example.com/domain/artists/
-      title: Domain Readme
-    - url: http://example.com/domains/artists/dashboard
-      title: Domain Metrics Dashboard
-      icon: dashboard
 spec:
   owner: content-delivery-stream
