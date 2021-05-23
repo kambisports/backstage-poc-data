@@ -5,6 +5,6 @@ metadata:
   description: A collection of all Kambi components
 spec:
   targets:
-    - ./components/offering-frontend-component.yaml
+    - url:https://github.com/kambisports/backstage-offering-frontend
     - ./components/offering-varnish-component.yaml
     - ./components/offering-gate-component.yaml
