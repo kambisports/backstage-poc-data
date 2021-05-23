@@ -10,3 +10,5 @@ spec:
   lifecycle: production
   owner: team-rock
   system: offering-distribution
+  providesApis:
+    - offering-api
