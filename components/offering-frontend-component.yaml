@@ -11,4 +11,4 @@ spec:
   owner: team-rock
   system: offering-distribution
   providesApis:
-    - offering-api
+    - internal-offering-api

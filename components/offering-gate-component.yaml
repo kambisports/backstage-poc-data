@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: offering-frontend-cache-component
-  description: Varnish Cache
+  name: offering-gate-component
+  description: Offering Gate
   tags:
     - varnish
 spec:
@@ -11,4 +11,4 @@ spec:
   owner: team-rock
   system: offering-distribution
   providesApis:
-    - offering-api
+    - offering-replication-api
