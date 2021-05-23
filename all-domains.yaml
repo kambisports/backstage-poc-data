@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: kambi-domains
+  description: A collection of all Kambi domains
+spec:
+  targets:
+    - ./domains/content-delivery.yaml

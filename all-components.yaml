@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: kambi-components
+  description: A collection of all Kambi components
+spec:
+  targets:
+    - ./components/offering-frontend-component.yaml
+    - ./components/offering-varnish-component.yaml

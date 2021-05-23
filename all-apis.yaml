@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: kambi-apis
+  description: A collection of all Kambi APIs
+spec:
+  targets:
+    - ./apis/offering-api.yaml

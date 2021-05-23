@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: kambi-systems
+  description: A collection of all Kambi systems
+spec:
+  targets:
+    - ./systems/offering-distribution-system.yaml
