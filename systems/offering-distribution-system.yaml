@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-  name: offering-distribution-system
+  name: offering-distribution
   description: Everything related to distributing Kambi's offering
   tags:
     - portal
