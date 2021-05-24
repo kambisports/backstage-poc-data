@@ -14,5 +14,6 @@ spec:
   type: openapi
   lifecycle: production
   owner: team-rock
+  system: offering-distribution
   definition:
     $text: https://github.com/kambisports/backstage-poc-data/blob/main/apis/offering-api.json
