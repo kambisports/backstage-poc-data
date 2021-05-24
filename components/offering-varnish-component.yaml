@@ -12,3 +12,5 @@ spec:
   system: offering-distribution
   providesApis:
     - offering-api
+  consumesApis:
+    - internal-offering-api
