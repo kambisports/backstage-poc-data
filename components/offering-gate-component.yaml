@@ -4,7 +4,8 @@ metadata:
   name: offering-gate-component
   description: Offering Gate
   tags:
-    - varnish
+    - java
+    - socket
 spec:
   type: service
   lifecycle: production
