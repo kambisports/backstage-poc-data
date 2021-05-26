@@ -6,5 +6,5 @@ metadata:
 spec:
   targets:
     - https://github.com/kambisports/backstage-offering-frontend/blob/main/catalog-info.yaml
-    - ./components/offering-varnish-component.yaml
+    - ./resources/offering-varnish-component.yaml
     - ./components/offering-gate-component.yaml
